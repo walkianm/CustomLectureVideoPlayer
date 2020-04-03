@@ -1,0 +1,141 @@
+/* POSITION */
+
+.quiz-nav {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.submit-answer {
+    position: absolute;
+    right: 0;
+}
+
+.exit-quiz {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+/* STYLE */
+
+.vid-quiz-question {
+    margin: 0 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+
+    padding: 7px 10px;
+
+    color: black;
+    background: white;
+    display: none;
+    position: relative;
+}
+
+.question-content {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.percent-correct {
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.vid-quiz {
+    background-color: rgba(74, 186, 255, .8);
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+    position: absolute;
+    display: none;
+    font-size: 18;
+}
+
+.previous-question {
+    visibility: hidden;
+}
+
+.vid-quiz button {
+    padding: 5px 10px;
+    margin: 5px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 2px 2px;
+}
+
+.quiz-nav button {
+    color: black;
+    background-color: #EFF7F6;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #B2F7EF;
+}
+
+
+button.exit-quiz, button.go-to-time {
+    color: white;
+    background-color: #333;
+    position: absolute;
+    right: 0;
+}
+
+button.go-to-time {
+    bottom: 0;
+}
+
+.quiz-title {
+    display: inline;
+    font-weight: bold;
+    font-size: 36px;
+    margin-left: 10px;
+}
+
+/* Make clickable part of option larger */
+
+.quiz-option {
+    display: inline-block;
+    width: 100%;
+}
+
+
+.answer {
+    display: none;
+}
+
+
+.vid-quiz-question label {
+    padding: 2px 5px 2px 2px;
+    background-color: #ddd;
+    border-color: #ddd;
+    margin: 1px 0 0 0;
+    border-radius: 15px;
+    border-width: 2px;
+    border-style: solid;
+}
+
+/* handle info on whether answer was correct or not */
+.answer label p {
+    margin: 0;
+    display: none;
+}
+
+.answer .selected p, .answer .correct p {
+    display: inline;
+    float: right;
+}
+
+.answer .selected.correct p {
+    display: none;
+}
+
+/* wrong answer selected */
+.answer .selected, .answer .correct {
+    border-color: red;
+}
+
+/* correct answer selected */
+.answer .selected.correct {
+    border-color: green;
+}

@@ -1,0 +1,5 @@
+.env
+scripts/*.py
+videoSearching/*.wav
+videoSearching/*.mp3
+static/videos/

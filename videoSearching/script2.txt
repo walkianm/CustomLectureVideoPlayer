@@ -1,0 +1,111 @@
+the guys will come back to they don't talk about normalization so was mobilization know why they say that the process of beef is silly
+so was mobilization know what they say that the process of these busily organizing gave it the debates will it cost an awful lot they say
+organizing gave it to the database will it cost an awful lot they say they're two main focal points to a little while we debate data can
+or two main focal points to a little while we don't get paid up and making sure that that that he's made six balls of these full
+you should get it and he's made six balls of these full points are surrounded by around organizing
+coins are surrounded by around organizing gave so you talk about normalization it's five million souls
+they so you talk about normalization it's five million associate you with simply just organizing to good database
+you would simply just organizing dated database i've so when it comes to know what they see
+why it's so when it comes to know what they say there are three normal forms and i'm going to be going
+there are three normal forms and i'm going to be going over each one of these forms and that's why it's vital for subtle form
+for each one of these forms and that's why it's vital for subtle form mean that fatal can only come to subatomic values and the old group
+means that the table and only consist of atomic values and they are no competing groups now for example
+in groups now for example of what's on the values are ever see you disarm the use this table right here
+what a common values are at work in groups are only used this table right here solace that we have the students a student table has four calls tonight the student may
+was that we have the students a student table as for college student ids to name a major as well of course is doubtless he didn't see this table does not
+major as well as for us now to c. b. c. this table does not consist lot holly values and our common values basically on
+says what common values and our common values basically our values where it is only a single value with a sale now as you see here
+alleys where it is only a single value with a sale now as you see here in discourses calm here we don't have one value
+in this course is calm here we don't have one value within this particular so as you can see
+in this particular so as you can see these two did barbara court has three courses writing drama in speech and
+who did barbara court has three courses writing drama in speech and these are writing committees speech on these
+it is writing committees speech on these need to be broken up so that they can only be one silhouette is just an exam
+need to be broken up so that they can only be one silhouette is just an example of a table that does not consist of atomic yeah
+although a table that does not consist of atomic now it's down what's odd about repeating groups this table that we have down here
+it's now what's odd about repeating groups this table that we have down here children example of repeating grooves in it for a total foreign debt cannot be moved
+children example of repeating grooves in a first novel forget cannot be repeating groups so if you look here we have a book i'd be doing that
+in groups so if you look here we have a book i need to get final history of america is the author on the ceiling and then another
+the history of america is the author on the ceiling and then another occidental morrison that you look here we have on the three blood on them too
+the battle more so that you look here we have on the three blood on them to use blanks simply because they're only to arthur's death row his book
+quite simply because they're only to arthur's death row his book so we consecrate state was eighty three the old however you want
+so the consecrate state was the three don't know how do you want what comes to blow great tables impossible for those with that
+what caused it bob crane tables in for small most wanted the specific way did you have to start two tables in order to put tables and also for
+waited to have to start two tables in order to put tables in a photo for high so this is why you do a message we have this
+i saw this is like you do it unless they we have this table here to say to that we have before the consist of non atomic values we
+we're here to say to that we have before he gives it a non atomic values which means that this horse is gone right here
+means that this course is calm right here does not consist of the single value bloody consist of three writing committees speech
+not consist of the single value bloody consist of three writing from a speech now to convert is the first gulf war wound has to really think bob
+now to convert is the first will swarm you have to really think about the structure of the table in the end we write the table so that every
+the structure of the table in the new rewrite the table so that every sale has a single value as you can see here will
+sale has a single value as you can see here we've done with barber court who has the report is writing committees beats
+done with barbara court who has the three courses writing committees beats we've broken is up into three separate records though we have one right
+we broke it is not into three separate records though we have one record here want record here in one record here and as you can see we have
+here one record here in one record here and as you can see we have horses in their own separate cells soul v.
+horses in their own separate cells soul is used a ways off comforting to table without haul it out with
+use the weight off come burning at table with atomic that was not something that you two a table with only the atomic values
+i'm not coming down you to a table with only the atomic values that is awful works the same way with repeating groups just like we sing before with
+now this awful works the same way with repeating groups just like we sing before with it in the previous line with the authors of you just after we started they want so to what
+in the previous live with the authors of you just after we started the ones that the way sold that bomb in the files increases though jenkins
+you sold that bomb in the files increases though can consist of non sum of values in the woods non competing groups are at
+is that none of some of values in the woods known competing groups are a bit so now let's talk about settle for second all
+so now let's talk about setting for a second will form means that the table first of all tested the first mobile for
+warm means that the table first of all has to be in for a small hole for one other thing is that all nazi activities are full eventually depended on the primary
+one other thing is that all nazi activities are fully functionally good good on the primary see so if you look at this table we have but they will call booking
+c. so if you look at this table we have a table called looking at three columns book by the store idea did miss thorpe location so subtle
+every calms book i pieced already been a store location so settle for space that all non c. n. to be so you can see here the store low case
+for space that all non c. n. to be so you can see here the store location is being nine see that you and has to be fully mostly depend on the primary c.
+it's a non si back to the u. n. has to be fully mostly depend on the primary see with this table here we have a book i'd be in the story i'd be we
+with this table here we have a book i read in the story i'd be weeks together is a cop was sixty ellicott city is a key on the
+together is a cop was a piano concert he is a key on that is made up of two columns that
+is made up of two columns that are used to you need light enough by a record in the table so this though
+i used to you need light the fire at a record in the table so this location is not fully obsolete depended on this primary key
+okay cities not fully obsolete depended on this primary see eighties all it had been on the store id though this table
+the eighties only depended on the store id so this table is not considered mobile phone now in the to them for peace table to second
+is not considered mobile phone now you know it's been produced able to satan will swarm what we have to do is break it up
+also on what we have to do is break it up by so we have this come for us so we had this table here it is
+why so we have this come for so we at this table here this book table that we seen in the previous lives will guide the star ideas location
+look table that we've seen in the previous live book ids the idea is to locate so we have to do is break this table of us who table so we have one table this
+oh we have to do is break this table and it seems able so we have one table this whole book in the oven the tape that is called store and in his book
+oh look you have another thing that is called store and in his book table we have a book i'd be in the store aidid now now as you can see
+abel we have a book i'd be in the store aidid now now as you can see were moved us the location and does the location it's maladies
+who does the location and does the location it's now inducement to the week recall store called id
+suitably creepy called store called id to induce already does it was already in the store location so now
+to induce already does it was already in the store location so now nazi activity the words on what really is fully falsely to pick up on the primary keys
+nazi activity the word tomorrow it is fully falsely depend upon the primary diesel this location on the pains on this store id you know
+this location on the page on this store id you know 'cause the lead in a rise of this dislocation you know
+the neglected of buys a bomb this dislocation you know so well that's pretty much in that you can see here in this book
+oh well that's pretty much in that you can see here in this book stable home we have the book idea in the store aidid and now
+it'll probably have the book idea in the store aidid and now says this is to write the column is
+says this is to write the column is separated from this though location was happening here is that now this book is a war
+that rate from this location was happening here is that now this book they will have a primary to your book aidid and now this already depends on
+primary to your book aidid and now this already depends on this book by the soul is a non si activities
+look i'm the sole is a non ti attribute of that that depends on this primary key so that's what
+bombay that hands on his primary key so that's what set him up for me it's
+second i will form it's it now what talk about their mobile for widow with them
+now what talk about their mobile for widow with them it for first of all the table has to be considered normal for another thing is that
+warm first of all the table has to be considered normal for one of the thing is that gentle friend of fox mulder did seize download explain what
+yeah an old friend of all filled up and it's now mum explain what size of possible that could see it's eyes we have mobile table down
+as the fossil dependency it's eyes so we have mobile table down here which consist of four columns the book i'd be general aidid is out side as well
+which consist of four columns the book i'd be general aidid is out side puzzles the price now look at the bottom of the sea gulls like the soviet do
+right now because of possible that in the sea gulls like the soviet this book i read his book i need to turn this is john righty and the genre aidid determines
+look i read his book i need to turn this is our id and the genre aidid determines the job website so therefore the book by the determines the genres
+pajama type so therefore the book by the determines the summit site through an intermediary calm of the genre id and death
+through an intermediary calm of the genre id and that's what we call the transit of optional that that see him as you see the
+call the transit of functional that did see him as you see this table is not in total four men on the next line is show you how to actually were
+the boy is not in term of four men on the next line and show you how to actually we start here this table so that it now even though
+consider this table so that it now even so for high so we have the table that we've seen in a previous lives
+right so we have the table that we've seen in a previous live book table and we've done since then is broken up this table and gypsies
+look table and we've done since then is broken up this table into two separate tables soul with you could see here in this book table is that
+tables soul which you could see here in this book table is that the book might be no longer determines the show
+the book might be no longer determines the show were tight but the book idea now the terms of general aidid in there from the
+what type but the book idea now the terms of general aidid and then from there this summer i ate the determines the job looks like soul
+john aidid determines the jar type so we have rules that friends of all civil did see
+we have rules that friends of all civil did it so now this book table we have to resolve book id the samurai
+so now this book table we have to resolve book id general aidid as long as the price and that we have in this zealots able to id him
+he has lost the price and that we have in this zealots able to id him in the shallow roadside so we have rules that sensitive also the
+the genre time so we have rules that sensitive functional that did see by simply just restructuring the table and also adding
+it's the by simply just restructuring the table and also adding another table genres year olds loosely
+one of the table the summer here mostly this may soon see that's soviet fatty questions let me know when it comes blown off it
+you see that's the idea that request is let me know when it comes blown off a bit like the beatles you've learned something here awful multitudes of that and
+the light of the rules you've learned something here awful multitudes of that and to that school
+cnn s. for
